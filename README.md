@@ -12,16 +12,16 @@ Commonly eaten foods and their macros
 | Hashbrown | 140 | 2 | 18 | 8 | 2 |
 | 1 Costco egg | 80 | 6.5 | 1 | 5.5 | 0 |
 | High-protein Milk 0% (1 cup = 250ml) | 130 | 20 | 10 | 0.3 | 0 |
-| 1 slice wholegrain bread | 100 | 7 | 31 | 3 | 3 |
-| 1 slice white bread | 110 | 7 | 34 | 3 | 2 |
+| 1 slice wholegrain high-protein bread | 100 | 7 | 31 | 3 | 3 |
+| 1 slice white high-protein bread | 110 | 7 | 34 | 3 | 2 |
 | 100g boiled rice with peas, carrots, corn | 125 | 3 | 27 | 0 |  |
 | 1 Fiber brownie | 90 | 1 | 18 | 3 | 5 |
 | Beyond Meat burger patty | 220 | 20 | 7 | 13 | 2 |
-| Brioche burger bun | 160 | 6 | 26 | 3 | 1 |
+| Brioche burger bun | 150 | 6 | 26 | 3 | 1 |
 | Timmies bacon and egg breakfast sandwich | 330 | 17 | 27 | 16 | 1 |
 | 1 portion Premier Protein | 160 | 30 | 4 | 3 | 2 |
 | 1 Steam Whistle Beer | 90 | 1 | 3 | 0 | 0 |
-| 1 Salmon portion | 240 | 26 | 5 | 13 | 1 |
+| 1 Morey's salmon CA version | 240 | 26 | 5 | 13 | 1 |
 | Tandoori chicken breast, homemade, 100g | 180 | 31 | 1 | 5 |  |
 | Raita (yogurt, cucumber, peppers), 100g | 55 | 3 | 5 | 2 |  |
 | Biryani rice, homemade, 100g | 175 | 3 | 32 | 4 |  |
@@ -40,3 +40,4 @@ Commonly eaten foods and their macros
 | Packaged garlic naan | 240 | 9 | 44 | 3.5 |  |
 | Dosa batter (40g) | 125 | 3 | 24 | 0 |  |
 | Swiss cheese slice (19g) | 50 | 3 | 3 | 3 |  |
+| Costco potstickers (4 pieces) | 150 | 8 | 21 | 4 | 1 |
