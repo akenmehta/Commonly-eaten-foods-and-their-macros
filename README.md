@@ -41,3 +41,4 @@ Commonly eaten foods and their macros
 | Dosa batter (40g) | 125 | 3 | 24 | 0 |  |
 | Swiss cheese slice (19g) | 50 | 3 | 3 | 3 |  |
 | Costco potstickers (4 pieces) | 150 | 8 | 21 | 4 | 1 |
+| Maeil Biofeel | 40 | 1 | 9 |  |  |
