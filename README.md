@@ -12,7 +12,7 @@ Commonly eaten foods and their macros
 | Hashbrown | 140 | 2 | 18 | 8 | 2 |
 | 1 Costco egg | 80 | 6.5 | 1 | 5.5 | 0 |
 | High-protein Milk 0% (1 cup = 250ml) | 130 | 20 | 10 | 0.3 | 0 |
-| 1 slice wholegrain high-protein bread | 100 | 7 | 31 | 3 | 3 |
+| 1 slice wholegrain high-protein bread | 100 | 7 | 16 | 2 | 2 |
 | 1 slice white high-protein bread | 110 | 7 | 34 | 3 | 2 |
 | 100g boiled rice with peas, carrots, corn | 125 | 3 | 27 | 0 |  |
 | 1 Fiber brownie | 90 | 1 | 18 | 3 | 5 |
