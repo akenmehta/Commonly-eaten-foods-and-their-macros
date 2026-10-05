@@ -42,3 +42,4 @@ Commonly eaten foods and their macros
 | Swiss cheese slice (19g) | 50 | 3 | 3 | 3 |  |
 | Costco potstickers (4 pieces) | 150 | 8 | 21 | 4 | 1 |
 | Maeil Biofeel | 40 | 1 | 9 |  |  |
+| YOP Yogurt | 110 | 6 | 16 | 3 |  |
