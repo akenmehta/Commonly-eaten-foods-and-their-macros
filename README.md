@@ -43,3 +43,4 @@ Commonly eaten foods and their macros
 | Costco potstickers (4 pieces) | 150 | 8 | 21 | 4 | 1 |
 | Maeil Biofeel | 40 | 1 | 9 |  |  |
 | YOP Yogurt | 110 | 6 | 16 | 3 |  |
+| Kulcha bread | 195 | 4 | 25 | 3 |  |
